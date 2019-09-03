@@ -1,6 +1,6 @@
 {
   "name": "parse-user-instagram",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Get user data by scraping Instagram's user page. No need for O-Auth or API.",
   "main": "index.js",
   "scripts": {
