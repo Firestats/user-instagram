@@ -1,6 +1,6 @@
 const scrape = require("../index")
 
-scrape("https://www.instagram.com/edouard_courty").then(result => {
+scrape("https://www.instagram.com/instagram").then(result => {
   console.log(result)
 }).catch(e => {
   console.error(e)

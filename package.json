@@ -1,7 +1,7 @@
 {
-  "name": "user-instagram",
-  "version": "1.0.3",
-  "description": "Get user data and feed by scraping Instagram's user page. No need for O-Auth or API.",
+  "name": "parse-user-instagram",
+  "version": "1.0.4",
+  "description": "Get user data by scraping Instagram's user page. No need for O-Auth or API.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/EdouardCourty/node-instagram-scraper"
+    "url": "https://github.com/Firestats/user-instagram.git"
   },
   "author": "Edouard Courty",
   "license": "MIT",
