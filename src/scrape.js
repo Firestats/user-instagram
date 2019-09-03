@@ -31,6 +31,7 @@ function getData(body) {
     "pictureUrl": graphql.profile_pic_url,
     "pictureHDUrl": graphql.profile_pic_url_hd,
     "isVerified": graphql.is_verified,
+    "data": graphql,
   }
 }
 
